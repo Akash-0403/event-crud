@@ -2,8 +2,8 @@
   "name": "react-crud-application",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "homepage": "https://rahulfaujdar.github.io/react-crud-application",
+  "main": "Login.js",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
